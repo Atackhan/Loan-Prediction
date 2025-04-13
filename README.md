@@ -125,13 +125,3 @@ Each model was evaluated using:
 ✅ **Create pipelines using `Pipeline` and `ColumnTransformer` from `sklearn` for cleaner preprocessing**
 
 ---
-
-## 📁 Project Structure
-
-```
-Loan_Prediction_Project/
-├── Loan Prediction Dataset.csv
-├── loan_prediction.ipynb
-├── README.md
-└── models/
-```
